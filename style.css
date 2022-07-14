@@ -407,6 +407,20 @@ div.gallery {
       font-size:70px;
       font-weight: 500;
     }
+       .secSecond{
+      justify-content:center;
+      margin-top: 20px;
+      width: 80%;
+    }
+    .listitem{
+      justify-content: center;
+      align-items: center;
+     
+      width:90%;
+    }
+    .fourthContainer1{
+      width: 100%;
+    }
     
     .secondcontainer{
       width: 100%;
