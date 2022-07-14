@@ -11,4 +11,4 @@ Project is created with:
 * CSS
 * JavaScript
 
-![mahatmread](https://user-images.githubusercontent.com/102819825/178420048-f22ec4e8-6fab-40c7-b444-8575bfab2f4e.png)
+![newpicture](https://user-images.githubusercontent.com/102819825/179047518-23d6b9d8-1ca7-43c8-8714-4985a59938d0.png)
